@@ -618,7 +618,7 @@ function App() {
         {/* === BANNER === */}
         <div className="menu-banner">
           <img
-            src="/Sp cakes.png"
+            src="/sp cakes.png"
             alt="Cakes and Cookies Banner"
             className="banner-image"
           />
