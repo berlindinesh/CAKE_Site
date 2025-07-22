@@ -197,7 +197,7 @@ const cakes = [
     category: "Eggless Sponge",
     price1kg: 430,
     priceHalfKg: 240,
-    image: "/Mocha.jpg"
+    image: "/mocha.jpg"
   },
   {
     label: "EGGLESS SPONGE CAKE",
@@ -366,7 +366,7 @@ const cakes = [
     category: "Cookie",
      priceEgg: 250,
      weight: "250g",
-    image: "/Choco Chip.png"
+    image: "/Choco chip.png"
   },
   
 
